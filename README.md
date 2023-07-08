@@ -1,4 +1,4 @@
-# svg_in_flutter
+# Flutter SVG
 
 A new Flutter project.
 
