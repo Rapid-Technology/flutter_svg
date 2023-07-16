@@ -1,6 +1,6 @@
 # Flutter SVG
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/mTE5QR97jtc/maxresdefault.jpg)](https://www.youtube.com/watch?v=mTE5QR97jtc)
 
 ## Getting Started
 
